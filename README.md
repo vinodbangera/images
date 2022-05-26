@@ -20,5 +20,6 @@
 
 Indian Currency
 
+![Screenshot from 2022-05-26 12-50-28 (1)](https://user-images.githubusercontent.com/96740928/170443821-a9f20044-527d-4e61-8403-3ab50273d8fc.png)
 
-![Screenshot from 2022-05-26 12-50-28](https://user-images.githubusercontent.com/96740928/170439229-68167b37-f1e9-43aa-8a9a-5fc8c4450c3a.png)
+
